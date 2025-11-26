@@ -7,8 +7,11 @@
 # Hacking Windows
 The book and code repo for the FREE Hacking Windows book by Kevin Thomas.
 
-## FREE Book
-[Download](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf)
+<br>
+
+## FREE Book [Download](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf)
+
+<br>
 
 ## Chapter 1: Hello World
 This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
@@ -160,5 +163,7 @@ This chapter covers dynamic reverse engineering analysis, hacking, the Windows A
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
-## License
+<br>
+
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
