@@ -158,7 +158,7 @@ This chapter covers dynamic reverse engineering analysis, debugging, the Windows
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
 
-## Chapter 30: Hacking WriteFile x6
+## Chapter 30: Hacking WriteFile x64
 This chapter covers dynamic reverse engineering analysis, hacking, the Windows API WriteFile function in x64 Assembly.
 
 -> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows.pdf) to read the FREE pdf book.
