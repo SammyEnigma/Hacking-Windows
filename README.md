@@ -4,6 +4,14 @@
 
 <br>
 
+# Today's Tutorial [January 16, 2026]
+## Lesson 81: ARM-32 Course 2 (Part 16 - Hacking Hello World)
+This tutorial will discuss hacking hello world.
+
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+
+<br>
+
 # Hacking Windows
 The book and code repo for the FREE Hacking Windows book by Kevin Thomas.
 
