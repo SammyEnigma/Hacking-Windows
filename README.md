@@ -8,7 +8,7 @@
 ## Lesson 112: ARM-32 Course 2 (Part 47 – Post-Decrement Operator)
 This tutorial will discuss post-decrement operator.
 
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook. to read the FREE ebook.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 <br>
 
