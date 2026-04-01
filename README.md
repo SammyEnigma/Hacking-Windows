@@ -4,6 +4,14 @@
 
 <br>
 
+# Today's Tutorial [April 1, 2026]
+## Lesson 146: x64 Course (Part 26 - Boot Sector Basics [Part 9])
+This tutorial will discuss more boot sector basics.
+
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+
+<br>
+
 # Hacking Windows
 The book and code repo for the FREE Hacking Windows book by Kevin Thomas.
 
